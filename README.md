@@ -7,6 +7,38 @@ A smart transport management system designed to streamline van transport for stu
 
 [![Watch the Demo](https://img.youtube.com/vi/vDl8HU36Czc/0.jpg)](https://youtu.be/vDl8HU36Czc)
 
+
+## 🖼️ Screenshots
+
+Here are some key views of the Smart Shuttle Service application:
+
+| Front Pages |
+|--------------|------------|
+| ![Front](./assets/front-page.png) | 
+
+| Login Pages |
+|--------------|------------|
+| ![Driver Login](./assets/driver-loginform.png) | ![Student Login](../assets/student-loginform.png) |
+| ![Admin Login](./assets/admin-loginform.png) |
+
+| Register Pages |
+|--------------|------------|
+| ![Driver Registere](./assets/driver-register-in-admin.png) | ![Student Register](../assets/student-loginform.png) |
+| ![Van Register](./assets/van-register-in-admin.png) |
+
+| Student Dashboard | Admin Dashboard | Driver Dashboard
+|-------------------|-------------|
+| ![Student](./assets/student-dashboard.png) | ![Admin](./assets/admin-dashboard.png) | 
+| ![Driver](./assets/Driver-dashboard.png) |
+
+| Other Features 
+|-------------------|-------------|
+| ![Student](./assets/student-searchvan.png) | ![Admin](./assets/driver-route-assign.png) | 
+| ![Driver](./assets/assigned-route-in-admin.png) |
+
+
+<!-- Add more rows as needed -->
+
 ---
 
 ## 📜 Table of Contents
