@@ -1,0 +1,30 @@
+.student-status {
+    margin-bottom: 20px;
+}
+
+button {
+    margin-top: 10px;
+}
+
+.dashboard-container {
+    margin-top: 20px;
+}
+
+.dashboard-paper {
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+input[type="file"] {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.snackbar {
+    bottom: 10px;
+}
+
+.user-status {
+    margin-bottom: 20px;
+}
+

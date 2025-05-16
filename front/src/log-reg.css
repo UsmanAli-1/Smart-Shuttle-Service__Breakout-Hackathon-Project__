@@ -1,0 +1,22 @@
+.container-form{
+    display: flex;
+    justify-content: center;
+}
+.reg-form{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+input{
+    width: 30vw;
+    height: 30px;
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgb(226, 241, 247);
+}
+.submit{
+    background-color: rgb(18, 18, 173);
+    color: #fff;
+    cursor: pointer;
+}
